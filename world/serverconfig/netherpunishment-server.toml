@@ -1,0 +1,14 @@
+
+[general]
+	#The height that is considered "above bedrock" for the purposes of this mod.
+	#Range: 0 ~ 256
+	netherHeight = 127
+	#The duration of the applied potion effects in ticks. This should be slightly longer than the checkFrequency value in order to handle short lag bursts.
+	#Range: 0 ~ 10000
+	potionDuration = 70
+	#How often the player list should be checked for players in the Nether who may potentially be above the defined `netherHeight`, and have the specified potion effects applied.
+	#Range: 0 ~ 10000
+	checkFrequency = 60
+	#A list of potion effects that should be applied for a short duratiopn whenever a player is above `netherHeight`. In the format of modid:potionname.
+	potionEffects = ["minecraft:weakness", "minecraft:nausea", "minecraft:hunger", "minecraft:slowness"]
+

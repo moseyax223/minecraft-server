@@ -1,0 +1,23 @@
+{
+  "groups": [],
+  "initial": {
+    "name": "default",
+    "prefix": "",
+    "suffix": "",
+    "members": [],
+    "all": false,
+    "all_non_op": true,
+    "allowedCommands": [],
+    "bannedCommands": []
+  },
+  "mods": {
+    "name": "mods",
+    "prefix": "",
+    "suffix": "",
+    "members": [],
+    "all": true,
+    "all_non_op": true,
+    "allowedCommands": [],
+    "bannedCommands": []
+  }
+}

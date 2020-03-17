@@ -1,0 +1,2780 @@
+{
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-03-14 18:40:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/storage_control_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_ore_blasting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/axe": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluid_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/slurry/clean": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/sword": {
+    "criteria": {
+      "has_item": "2020-03-14 18:23:31 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/gas_tank/basic": {
+    "criteria": {
+      "has_basic_alloy": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/shard/from_ore": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/iron_paxel": {
+    "criteria": {
+      "has_iron_axe": "2020-03-14 18:56:09 -0400",
+      "has_iron_pickaxe": "2020-03-14 18:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/leather_scraps_uncompress": {
+    "criteria": {
+      "has_item": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-03-14 18:27:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-14 18:34:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/place_townhall": {
+    "criteria": {
+      "build_tool_place_town_hall": "2020-03-16 22:48:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/crystal/from_slurry": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-03-14 19:02:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-03-14 19:09:53 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/helmet": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/turbine/casing": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/dust/from_ore": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/clump/from_shard": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/emerald_shards": {
+    "criteria": {
+      "has_item": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/dust/from_ingot": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/clump/from_ore": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/saturating_condenser": {
+    "criteria": {
+      "has_tin": "2020-03-15 17:32:47 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_nuggets": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-03-16 22:06:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/templates": {
+    "criteria": {
+      "has_item": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/dust/from_dirty_dust": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/hoe": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_nuggets": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "silents_mechanisms:root": {
+    "criteria": {
+      "get_item": "2020-03-14 18:43:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-03-14 19:31:52 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/dust/from_dirty_dust": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/dust/from_dirty_dust": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/emerald_tipped_upgrade": {
+    "criteria": {
+      "has_item": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-03-14 20:25:58 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/clock_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/dirty_dust/from_clump": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/dust/from_dirty_dust": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2020-03-14 19:56:33 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/leggings": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-15 15:37:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/sinew_bowstring": {
+    "criteria": {
+      "has_item": "2020-03-16 22:00:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-03-14 18:59:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-03-14 20:28:24 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/steel_casing": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/misc/processing/iron/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/shovel": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/sinew_fibers": {
+    "criteria": {
+      "has_item": "2020-03-16 22:00:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-03-16 22:06:31 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/clump/from_ore": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-03-14 18:27:38 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/pickaxe": {
+    "criteria": {
+      "has_item": "2020-03-14 18:23:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-03-14 18:32:40 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/clump/from_ore": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/ore/from_dust": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/text_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/aluminium_smelting": {
+    "criteria": {
+      "has_aluminium_ore": "2020-03-14 18:42:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2020-03-14 19:08:02 -0400",
+      "minecraft:skeleton": "2020-03-15 17:25:08 -0400",
+      "minecraft:spider": "2020-03-16 21:56:56 -0400",
+      "minecraft:zombie": "2020-03-14 19:37:39 -0400",
+      "minecraft:drowned": "2020-03-14 19:12:51 -0400"
+    },
+    "done": false
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/sword": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-03-14 19:03:10 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/slurry/clean": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-03-16 22:00:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-03-14 19:37:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-03-14 18:32:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-03-15 17:02:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2020-03-14 18:56:09 -0400",
+      "has_iron_pickaxe": "2020-03-14 18:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/lead_blasting": {
+    "criteria": {
+      "has_lead_ore": "2020-03-14 18:44:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/dust/from_ore": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/coal/to_dust": {
+    "criteria": {
+      "has_coal": "2020-03-14 18:36:29 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/dust/from_ore": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/lapis_coated_upgrade": {
+    "criteria": {
+      "has_item": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/nugget_from_smelting": {
+    "criteria": {
+      "has_osmium_pickaxe": "2020-03-15 16:07:28 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_block": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_sword": {
+    "criteria": {
+      "blueprint": "2020-03-14 18:23:31 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/shovel": {
+    "criteria": {
+      "has_item": "2020-03-14 18:23:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/sword": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/button_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card": {
+    "criteria": {
+      "iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-14 19:25:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-14 19:31:52 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/shard/from_crystal": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/axe": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/crystal/from_slurry": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2020-03-14 18:26:10 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/clump/from_shard": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/generator/wind": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/diamond_shards": {
+    "criteria": {
+      "has_item": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/ore/from_dust": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gold_tipped_upgrade": {
+    "criteria": {
+      "has_item": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-03-15 17:27:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-03-14 19:03:10 -0400"
+    },
+    "done": true
+  },
+  "archers_paradox:recipes/archers_paradox/diamond_arrow": {
+    "criteria": {
+      "has_components": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-03-14 18:56:09 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/silver_blasting": {
+    "criteria": {
+      "has_silver_ore": "2020-03-14 20:05:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/uranium_smelting": {
+    "criteria": {
+      "has_uranium_ore": "2020-03-14 19:38:44 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/ore/from_dust": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2020-03-14 18:43:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/dust/from_ingot": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2020-03-14 18:56:09 -0400",
+      "has_iron_pickaxe": "2020-03-14 18:56:09 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/transportation/rails": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/crystal/from_slurry": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2020-03-14 19:08:02 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/dust/from_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/clump/from_ore": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2020-03-14 19:37:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/slurry/dirty": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_ore_blasting": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/rough_rod": {
+    "criteria": {
+      "has_item": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/aluminium_blasting": {
+    "criteria": {
+      "has_aluminium_ore": "2020-03-14 18:42:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2020-03-15 17:06:24 -0400",
+      "minecraft:deep_cold_ocean": "2020-03-15 17:06:10 -0400",
+      "minecraft:desert": "2020-03-15 17:00:01 -0400",
+      "minecraft:beach": "2020-03-14 20:25:39 -0400",
+      "minecraft:dark_forest": "2020-03-14 18:27:43 -0400",
+      "minecraft:river": "2020-03-14 18:27:40 -0400",
+      "minecraft:plains": "2020-03-14 16:50:37 -0400"
+    },
+    "done": false
+  },
+  "mekanism:recipes/infusion_conversion/carbon/from_coal": {
+    "criteria": {
+      "has_coal": "2020-03-14 18:36:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-03-16 21:59:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/sinew_smelting": {
+    "criteria": {
+      "has_item": "2020-03-16 22:00:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-03-14 18:54:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/storage_blocks/tin": {
+    "criteria": {
+      "has_tin": "2020-03-15 17:32:47 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energy_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/nuggets/tin": {
+    "criteria": {
+      "has_tin": "2020-03-15 17:32:47 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/slurry/dirty": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/misc/processing/gold/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-03-16 22:06:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/bronze/dust/from_ingot": {
+    "criteria": {
+      "has_tin": "2020-03-15 17:32:47 -0400"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/smartwrench": {
+    "criteria": {
+      "iron": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/shard/from_ore": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/shovel": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/slurry/dirty": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/stone_rod": {
+    "criteria": {
+      "has_item": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/misc/processing/iron/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/fluid_tank/basic": {
+    "criteria": {
+      "has_basic_alloy": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-03-14 18:32:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/leather_scraps_compress": {
+    "criteria": {
+      "has_item": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/clump/from_shard": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/crystal/from_slurry": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_ore_smelting": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-03-15 17:00:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_ore_smelting": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-14 19:14:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/dirty_dust/from_clump": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/clump/from_shard": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/lead_smelting": {
+    "criteria": {
+      "has_lead_ore": "2020-03-14 18:44:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/clump/from_ore": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-03-15 16:54:47 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/diamond_tipped_upgrade": {
+    "criteria": {
+      "has_item": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-03-14 18:27:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/gas_conversion/flint_to_oxygen": {
+    "criteria": {
+      "has_flint": "2020-03-14 19:37:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-03-14 19:37:09 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/nugget_from_blasting": {
+    "criteria": {
+      "has_osmium_pickaxe": "2020-03-15 16:07:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/shard/from_ore": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-03-14 19:51:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2020-03-14 19:37:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2020-03-14 18:35:23 -0400",
+      "cooked_beef": "2020-03-16 22:02:17 -0400",
+      "apple": "2020-03-14 19:31:30 -0400",
+      "bread": "2020-03-14 19:54:41 -0400",
+      "cooked_chicken": "2020-03-14 19:08:27 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2020-03-15 15:51:00 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/ore/from_dust": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/pickaxe": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/dust/from_ore": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/clump/from_shard": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/slurry/clean": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2020-03-15 15:51:00 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/dirty_dust/from_clump": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/nuggets/osmium": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/paxel": {
+    "criteria": {
+      "has_osmium_pickaxe": "2020-03-15 16:07:28 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/metallurgic_infuser": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-03-14 19:14:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-03-14 20:28:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/dust/from_ingot": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-03-14 18:32:40 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/shard/from_ore": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2020-03-16 22:01:11 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/misc/processing/gold/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/slurry/dirty": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/redstone_coated_upgrade": {
+    "criteria": {
+      "has_item": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-03-14 18:26:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2020-03-15 18:31:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-03-14 18:35:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-03-14 18:27:38 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_block": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/create_build_request_1_builder": {
+    "criteria": {
+      "builder_request": "2020-03-16 22:53:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-14 19:02:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/ore/from_dust": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/uranium_blasting": {
+    "criteria": {
+      "has_uranium_ore": "2020-03-14 19:38:44 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/dirty_dust/from_clump": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_ore_smelting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/shard/from_crystal": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-14 18:34:05 -0400"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2020-03-14 18:43:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-03-14 18:27:38 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/gear/axe": {
+    "criteria": {
+      "has_item": "2020-03-14 18:23:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-03-14 18:26:06 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_nuggets": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/iron_tipped_upgrade": {
+    "criteria": {
+      "has_item": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-03-14 19:51:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/redstone/to_ore": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/storage_blocks/osmium": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/dust/from_dirty_dust": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/dirty_dust/from_clump": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/gas_conversion/osmium_from_ingot": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_pickaxe": {
+    "criteria": {
+      "blueprint": "2020-03-14 18:23:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-03-14 18:32:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-03-14 18:36:29 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/hoe": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/slurry/clean": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-14 19:36:43 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/shard/from_ore": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2020-03-14 16:50:37 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/stone_paxel": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-14 18:34:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/bronze/ingot/from_infusing": {
+    "criteria": {
+      "has_tin": "2020-03-15 17:32:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/iron_rod": {
+    "criteria": {
+      "has_item": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_ore_blasting": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/stone_torch": {
+    "criteria": {
+      "has_item": "2020-03-14 18:33:45 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/infusion_conversion/redstone/from_dust": {
+    "criteria": {
+      "has_redstone_dust": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-03-14 18:26:10 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/shard/from_crystal": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-03-14 18:43:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/boots": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/slurry/dirty": {
+    "criteria": {
+      "has_tin_ore": "2020-03-14 18:45:36 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/pickaxe": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2020-03-15 18:31:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-03-16 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/upgrade_base_advanced": {
+    "criteria": {
+      "has_item": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_block": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/dust/from_ingot": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+    "criteria": {
+      "ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-03-16 22:00:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/generator/heat": {
+    "criteria": {
+      "has_furnace": "2020-03-14 18:40:13 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/shard/from_crystal": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-14 19:44:12 -0400"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
+    "criteria": {
+      "iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-03-14 20:26:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/shard/from_crystal": {
+    "criteria": {
+      "has_gold_ore": "2020-03-14 19:40:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-03-14 18:27:38 -0400"
+    },
+    "done": true
+  },
+  "janoeo:recipes/janoeo.item.group/silver_smelting": {
+    "criteria": {
+      "has_silver_ore": "2020-03-14 20:05:09 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/crystal/from_slurry": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/dust/from_ore": {
+    "criteria": {
+      "has_iron_ore": "2020-03-14 18:38:14 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/slurry/clean": {
+    "criteria": {
+      "has_copper_ore": "2020-03-14 18:48:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-03-14 18:27:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2020-03-14 18:41:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2020-03-14 19:32:17 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/spoon_upgrade": {
+    "criteria": {
+      "has_item": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2020-03-14 18:41:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-03-16 22:01:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-03-14 19:38:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-15 16:44:35 -0400"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/gauge_dropper": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-14 20:25:45 -0400"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "get_flaxseeds": "2020-03-16 22:46:58 -0400"
+    },
+    "done": false
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/chestplate": {
+    "criteria": {
+      "has_osmium": "2020-03-15 16:07:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-03-16 22:00:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-03-14 19:15:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-03-15 16:16:20 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/wood_paxel": {
+    "criteria": {
+      "has_wooden_axe": "2020-03-14 18:27:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-03-14 18:53:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2020-03-15 15:33:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-03-15 16:54:47 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2230
+}

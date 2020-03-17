@@ -1,0 +1,15 @@
+{
+  "uuid": "d671d21b-6dc8-4627-953d-50215e07850b",
+  "data": {
+    "last_death": 0,
+    "death_count": 0
+  },
+  "last_usage": {
+    "command": {},
+    "kit": {},
+    "teleport": {},
+    "other": {}
+  },
+  "restrictions": {},
+  "custom_data": {}
+}

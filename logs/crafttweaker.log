@@ -1,0 +1,46 @@
+[21:41:41.821][DONE][SERVER][INFO] Loading Recipe Changes.zs
+[21:41:41.825][DONE][SERVER][INFO] Loading energizing.zs
+[21:41:42.038][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:solargeneration:solar_core_leadstone>"
+[21:41:42.098][DONE][SERVER][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:solarcoreleadstone" that outputs: <item:solargeneration:solar_core_leadstone>
+[21:41:42.098][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:solargeneration:solar_core_hardened>"
+[21:41:42.116][DONE][SERVER][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:solarcorehardened" that outputs: <item:solargeneration:solar_core_hardened>
+[21:41:42.116][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:solargeneration:solar_core_redstone>"
+[21:41:42.134][DONE][SERVER][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:solarcoreredstone" that outputs: <item:solargeneration:solar_core_redstone>
+[21:41:42.134][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:solargeneration:solar_core_signalum>"
+[21:41:42.151][DONE][SERVER][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:solarcoresignalum" that outputs: <item:solargeneration:solar_core_signalum>
+[21:41:42.151][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:mekanism:upgrade_anchor>"
+[21:41:42.165][DONE][SERVER][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:cupgradeanchor" that outputs: <item:mekanism:upgrade_anchor>
+[21:41:42.169][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:minecraft:fishing_rod>.withTag({Damage: 0})"
+[21:41:42.184][DONE][SERVER][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:fishingrod" that outputs: <item:minecraft:fishing_rod>.withTag({Damage: 0})
+[21:41:42.184][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:cyclic:ender_eye_reuse>.withTag({Damage: 0})"
+[21:41:42.208][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:cyclic:tile_transporter_empty>"
+[21:41:42.220][DONE][SERVER][INFO] Removing "minecraft:crafting" recipes with output: <item:dimensionalworld:overworld_lever>"
+[21:41:42.233][DONE][SERVER][INFO] Adding "minecraft:crafting" recipe, of type: "shaped", with name: "crafttweaker:miningdim" that outputs: <item:dimensionalworld:overworld_lever>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Item tag with name <tag:forge:ores/prosperity>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Item tag with name <tag:forge:ores/inferium>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Item tag with name <tag:forge:ores/soulium>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Block tag with name <tag:forge:ores/prosperity>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Block tag with name <tag:forge:ores/inferium>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Block tag with name <tag:forge:ores/soulium>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Item tag with name <tag:forge:ores/uraninite_ore_poor>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Item tag with name <tag:forge:ores/uraninite_ore>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Item tag with name <tag:forge:ores/uraninite_ore_dense>
+[21:41:42.236][DONE][SERVER][INFO] Registering new Block tag with name <tag:forge:ores/uraninite_ore_poor>
+[21:41:42.237][DONE][SERVER][INFO] Registering new Block tag with name <tag:forge:ores/uraninite_ore>
+[21:41:42.237][DONE][SERVER][INFO] Registering new Block tag with name <tag:forge:ores/uraninite_ore_dense>
+[21:41:42.242][DONE][SERVER][INFO] Adding: [prosperity_ore, inferium_ore, soulium_ore] to tag: forge:ores
+[21:41:42.243][DONE][SERVER][INFO] Adding: [uraninite_ore_poor, uraninite_ore, uraninite_ore_dense] to tag: forge:ores
+[21:41:42.243][DONE][SERVER][INFO] Adding: [Block{mysticalagriculture:prosperity_ore}, Block{mysticalagriculture:inferium_ore}, Block{mysticalagriculture:soulium_ore}] to tag: forge:ores
+[21:41:42.243][DONE][SERVER][INFO] Adding: [Block{powah:uraninite_ore_poor}, Block{powah:uraninite_ore}, Block{powah:uraninite_ore_dense}] to tag: forge:ores
+[21:41:42.243][DONE][SERVER][INFO] Adding: [prosperity_ore] to tag: forge:ores/prosperity
+[21:41:42.244][DONE][SERVER][INFO] Adding: [inferium_ore] to tag: forge:ores/inferium
+[21:41:42.244][DONE][SERVER][INFO] Adding: [soulium_ore] to tag: forge:ores/soulium
+[21:41:42.244][DONE][SERVER][INFO] Adding: [Block{mysticalagriculture:prosperity_ore}] to tag: forge:ores/prosperity
+[21:41:42.244][DONE][SERVER][INFO] Adding: [Block{mysticalagriculture:inferium_ore}] to tag: forge:ores/inferium
+[21:41:42.244][DONE][SERVER][INFO] Adding: [Block{mysticalagriculture:soulium_ore}] to tag: forge:ores/soulium
+[21:41:42.244][DONE][SERVER][INFO] Adding: [uraninite_ore_poor] to tag: forge:ores/uraninite_ore_poor
+[21:41:42.244][DONE][SERVER][INFO] Adding: [uraninite_ore] to tag: forge:ores/uraninite_ore
+[21:41:42.244][DONE][SERVER][INFO] Adding: [uraninite_ore_dense] to tag: forge:ores/uraninite_ore_dense
+[21:41:42.244][DONE][SERVER][INFO] Adding: [Block{powah:uraninite_ore_poor}] to tag: forge:ores/uraninite_ore_poor
+[21:41:42.244][DONE][SERVER][INFO] Adding: [Block{powah:uraninite_ore}] to tag: forge:ores/uraninite_ore
+[21:41:42.244][DONE][SERVER][INFO] Adding: [Block{powah:uraninite_ore_dense}] to tag: forge:ores/uraninite_ore_dense

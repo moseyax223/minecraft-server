@@ -1,0 +1,27 @@
+{
+  "uuid": "b512fff6-2d82-4bbf-b8a3-bf1538d4ea65",
+  "data": {
+    "last_location": {
+      "x": 378.63911169516865,
+      "y": 24.0,
+      "z": -403.69999998807907,
+      "rotationYaw": 178.49866,
+      "rotationPitch": 76.04986,
+      "dimension": 0
+    },
+    "last_death": 1584305040,
+    "death_count": 5
+  },
+  "last_usage": {
+    "command": {
+      "spawn": 1584225016
+    },
+    "kit": {},
+    "teleport": {
+      "spawn": 1584225019
+    },
+    "other": {}
+  },
+  "restrictions": {},
+  "custom_data": {}
+}

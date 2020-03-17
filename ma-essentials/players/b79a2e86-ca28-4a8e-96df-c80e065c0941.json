@@ -1,0 +1,23 @@
+{
+  "uuid": "b79a2e86-ca28-4a8e-96df-c80e065c0941",
+  "data": {
+    "last_location": {
+      "x": 340.152863446175,
+      "y": 66.0,
+      "z": -234.11569141104965,
+      "rotationYaw": 323.0022,
+      "rotationPitch": 13.049771,
+      "dimension": 0
+    },
+    "last_death": 1584227269,
+    "death_count": 1
+  },
+  "last_usage": {
+    "command": {},
+    "kit": {},
+    "teleport": {},
+    "other": {}
+  },
+  "restrictions": {},
+  "custom_data": {}
+}

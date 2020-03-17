@@ -1,0 +1,14 @@
+# Should the screen appear on the next Start? This will reset after the screen has been displayed once 
+# You can use F5 to reload the screen or press shift + enter to continue without resetting the config. 
+shouldappear = true
+# The Header of the Message
+header = "Advanced Mining Dimension has been removed"
+# The Body of the Message
+body = "\n \n In v0.5.1 the decision was made to remove Advanced Mining Dimension in favour of Buuz135s Mining Dimension due to the existing world not creating a Mining Dim bug. \n \n If you have built in there, I suggest redownloading the previous file and getting everything out of there! \n \n This is your last chance to turn back!"
+# The Text on the Button
+button = "Click to Continue"
+# Optional: Adds a second button with a link that can be opened. Leave blank to disable the button
+link = "https://www.curseforge.com/minecraft/modpacks/just-not-enough-mods-2"
+#Text on the Link Button
+linkButtonText = "CurseForge Page"
+

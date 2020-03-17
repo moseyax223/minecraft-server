@@ -1,0 +1,6 @@
+
+[general]
+	#Range of effect in chunks, 1 = 3x3, 2 = 5x5, 3 = 7x7,etc
+	#Range: > 0
+	"Chunk Range" = 2
+

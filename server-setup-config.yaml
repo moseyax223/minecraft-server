@@ -1,0 +1,159 @@
+# Version of the specs, only for internal usage if this format should ever change
+_specver: 1
+
+# modpack related settings, changes the supposed to change the visual appearance of the launcher
+modpack:
+  # Name of the mod pack, that is displayed in various places where it fits
+  name: Just Not Enough Mods 2
+
+  # Description
+  description: A hand selected pack of mods that are developing on 1.15.2
+
+
+
+# settings regarding the installation of the modpack
+install:
+  # version of minecraft, needs the exact version
+  mcVersion: 1.15.2
+
+  # exact version of forge that is supposed to be used
+  # if this value is a null value so ( ~, null, or "" ) then the version from the mod pack is going to be used
+  forgeVersion: ~
+
+  # If a custom installer is supposed to used, specify the url here: (Otherwise put "", ~ or null here)
+  forgeInstallerUrl: ~
+
+  # Link to where the file where the modpack can be distributed
+  # This supports loading from local files as well for most pack types if there is file://{PathToFile} in the beginning
+  modpackUrl: https://media.forgecdn.net/files/2899/7/Just+Not+Enough+Mods+2-0.5.1.zip
+
+  # This is used to specify in which format the modpack is distributed, the server launcher has to handle each individually if their format differs
+  # current supported formats:
+  # - curseforge or curse
+  # - curseid
+  # - zip or zipfile
+  modpackFormat: curse
+
+  # Settings which are specific to the format used, might not be needed in some casese
+  formatSpecific:
+    # optional paramenter used for curse to specify a whole project to ignore (mostly if it is client side only)
+    ignoreProject:
+      - 60089
+      - 250398
+      - 267602
+      - 225928
+      - 226406
+      - 232131
+      - 231275
+      - 282743
+      - 265917
+      - 240630
+      - 238747
+      - 243478
+      - 291926
+      - 293496
+      - 226447
+      - 271740
+      - 237701
+      - 285492
+      - 272515
+      - 251407
+      - 253729
+      - 291727
+      - 283649
+      - 295765
+      - 285742
+      - 292992
+      - 241140
+      - 317642
+      - 231453
+      - 349206
+      - 353051
+      - 254284
+      - 251407
+
+  # The base path where the server should be installed to, ~ for current path
+  baseInstallPath: ~
+
+  # a list of files which are supposed to be ignored when installing it from the client files
+  # this can either use regex or glob {default glob: https://docs.oracle.com/javase/8/docs/api/java/nio/file/FileSystem.html#getPathMatcher-java.lang.String-}
+  # specify with regex:.... or glob:.... if you want to force a matching type
+  ignoreFiles:
+    - mods/optifine*.jar
+    - resources/**
+
+  # often a server needs more files, which are nearly useless on the client, such as tickprofiler
+  # This is a list of files, each ' - ' is a new file:
+  # url is the directlink to the file, destination is the path to where the file should be copied to
+  additionalFiles: ~
+  # - url: ~
+  #    destination: ~
+
+  # For often there are config which the user wants to change, here is the place to put the local path to configs, jars or whatever
+  localFiles: ~
+  
+#    - from: localfiles/dcintegration-common.toml
+#      to: serverfiles/config/dcintegration-common.toml
+
+  # This makes the program check the folder for whether it is supposed to use the
+  checkFolder: yes
+
+  # Whether to install Forge or not, should always be yes/true unless you only want to install the pack
+  installForge: yes
+
+  # Sponge bootstrapper jar URL
+  # Only needed if you have spongefix enabled
+  spongeBootstrapper: https://github.com/simon816/SpongeBootstrap/releases/download/v0.6.2/SpongeBootstrap-0.6.2.jar
+
+
+
+
+# settings regarding the launching of the pack
+launch:
+  # applies the launch wrapper to fix sponge for a few mods
+  spongefix: no
+
+  # Use a RAMDisk for the world folder
+  # case-sensitive; use only lowercase `yes` or `no`
+  # NOTE: The server must have run once fully before switching to `yes`!
+  ramDisk: no
+
+  # checks with the help of a few unrelated server whether the server is online
+  checkOffline: no
+
+  # specifies the max amount of ram the server is supposed to launch with
+  maxRam: 5G
+
+  # specifies whether the server is supposed to auto restart after crash
+  autoRestart: yes
+
+  # after a given amount of crashes in a given time the server will stop auto restarting
+  crashLimit: 10
+
+  # Time a crash should be still accounted for in the {crashLimit}
+  # syntax is either [number]h or [number]min or [number]s
+  crashTimer: 60min
+
+  # Arguments that need to go before the 'java' argument, something like linux niceness
+  # This is only a string, not a list.
+  preJavaArgs: ~
+
+  # Java args that are supposed to be used when the server launches
+  # keep in mind java args often need ' - ' in front of it to work, use clarifying parentheses to make sure it uses it correctly
+  javaArgs:
+    - "-d64"
+    - "-server"
+    - "-XX:+AggressiveOpts"
+    - "-XX:ParallelGCThreads=4"
+    - "-XX:+UseConcMarkSweepGC"
+    - "-XX:+UnlockExperimentalVMOptions"
+    - "-XX:+UseParNewGC"
+    - "-XX:+ExplicitGCInvokesConcurrent"
+    - "-XX:MaxGCPauseMillis=10"
+    - "-XX:GCPauseIntervalMillis=50"
+    - "-XX:+UseFastAccessorMethods"
+    - "-XX:+OptimizeStringConcat"
+    - "-XX:NewSize=84m"
+    - "-XX:+UseAdaptiveGCBoundary"
+    - "-XX:NewRatio=3"
+    - "-Dfml.readTimeout=90"
